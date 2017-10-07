@@ -1,6 +1,6 @@
-# List-Array: Ruby Planet Array
+# [X] List-Array: Ruby Planet Array
 
-
+Print each planet and the satellites which visited it by interating over the planet array and satellite array.
 
 ## Reference
 
@@ -19,8 +19,8 @@
 ## Iterating over planets
 
 - [X] Create another array containing arrays where each array will hold the name of a spacecraft that we have launched, and the names of the planet(s) that it has visited, or landed on. (e.g. `['Cassini', 'Saturn']`).
-
-- [ ] Iterate over your array of planets, and inside that loop, iterate over the array of arrays. Print, for each planet, which satellites have visited.
+- [X] Iterate over your array of planets, and inside that loop, iterate over the array of arrays. 
+- [X] Print, for each planet, which satellites have visited.
 
 
 
