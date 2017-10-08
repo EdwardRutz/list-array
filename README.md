@@ -2,7 +2,9 @@
 
 Print each planet and the satellites which visited it by interating over the planet array and satellite array.
 
-## Topics: Arrays, Intertation, Methods: .append() .concat(), .insert(), 
+## Topics: 
+- Basic collections and classes, Interating MultipleArrays, 
+- Methods: .append() .concat(), .insert(), .include? 
 
 ## Exercise
 
