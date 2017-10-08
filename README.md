@@ -4,8 +4,10 @@ Print each planet and the satellites which visited it by interating over the pla
 
 ## Reference
 
-* [Ruby Arrays](http://ruby-doc.org/core-2.4.2/Array.html)
 - Sun:  Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto
+- [Ruby Arrays](http://ruby-doc.org/core-2.4.2/Array.html)
+- [Ruby-Docs: .include?](http://ruby-doc.org/core-2.4.2/Array.html#method-i-include-3F)
+- [StackOverflow: Check for value in array](https://stackoverflow.com/questions/1986386/check-if-a-value-exists-in-an-array-in-ruby)
 
 ## Exercise
 
